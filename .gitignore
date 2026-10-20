@@ -1,0 +1,25 @@
+# C object files and build artifacts
+*.o
+*.obj
+*.out
+*.exe
+
+# Compiled binaries
+divoc
+src/divoc
+
+# Temporary and backup files
+*~
+*.bak
+*.swp
+*.swo
+
+# Runtime local database
+patients.txt
+src/patients.txt
+
+# Editor and OS metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
